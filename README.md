@@ -19,4 +19,4 @@ The Content Management System (CMS) is a web application that enables administra
 - MySQL
 
 ## Note
-The source code is not available because the project was developed duriing an internship and the repository was not maintained individually.
+The source code is not available because the project was developed during an internship and the repository was not maintained individually.
