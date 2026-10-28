@@ -18,5 +18,8 @@ The Content Management System (CMS) is a web application that enables administra
 - PHP
 - MySQL
 
-## Note
-The source code is not available because the project was developed during an internship and the repository was not maintained individually.
+## Project Availability
+
+This project was developed collaboratively by a team of four during my Full Stack Development Internship at Ardent Computech Pvt. Ltd.
+
+The original source code is no longer available, as the project repository was not maintained individually. This repository documents the project's functionality, technologies used, and my contributions during the internship.
